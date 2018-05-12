@@ -1,0 +1,31 @@
+_repo: Vita-e-avventure-di-Riccardo-Joanna_41473
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41473-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Serao, Matilde
+    aliases:
+    - Serao-Scarfoglia, Matilde
+    - Scarfoglia, Matilde Serao
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '7688'
+    url: http://www.gutenberg.org/2009/agents/7688
+    wikipedia: http://en.wikipedia.org/wiki/Matilde_Serao
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2012-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41473'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction'
+- !lcc 'PQ'
+title: 'Vita e avventure di Riccardo Joanna: romanzo'
+url: http://www.gutenberg.org/ebooks/41473
